@@ -1,8 +1,8 @@
 # RQD-estimation
 # Reference
-The base models are from https://github.com/qubvel/segmentation_models 
-
-pip install -U segmentation-models==0.2.1
+https://github.com/qubvel/segmentation_models 
+# requirements
+segmentation-models==0.2.1
 # Train/Test
 Then you can run
 
