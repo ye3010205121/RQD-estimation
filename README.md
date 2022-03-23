@@ -26,3 +26,7 @@ The segmentation result using ensemble model can be obtained
 For all the codes, we have provided the sample data to test. Only need to change the directory.
 
 Project is distributed under MIT Licence
+
+The trained models link is https://drive.google.com/drive/folders/1zPUivSgjR8VL8E24bB0zXURlIU4QBPhh?usp=sharing
+
+The testing data link is https://drive.google.com/file/d/1OLfd960X5WNoJrIDVxZO10C-GuJD_itY/view?usp=sharing
