@@ -21,8 +21,8 @@ Using the model ensemble
 
 python imgensemble.py
 
-The segmentation result using ensemble model can be get
+The segmentation result using ensemble model can be obtained
 
-For all the codes, we have provided the sample data to run. Only need to change the directory.
+For all the codes, we have provided the sample data to test. Only need to change the directory.
 
 Project is distributed under MIT Licence
