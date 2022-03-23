@@ -1,5 +1,5 @@
 # RQD-estimation
-The base model is from https://github.com/qubvel/segmentation_models 
+The base models are from https://github.com/qubvel/segmentation_models 
 
 pip install -U segmentation-models==0.2.1
 
@@ -23,4 +23,6 @@ python imgensemble.py
 
 The segmentation result using ensemble model can be get
 
-For all the codes, we have provided the sample data to run. Only need to change the directory。
+For all the codes, we have provided the sample data to run. Only need to change the directory.
+
+Project is distributed under MIT Licence
