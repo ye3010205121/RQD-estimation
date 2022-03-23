@@ -1,6 +1,4 @@
 # RQD-estimation
-# Reference
-https://github.com/qubvel/segmentation_models 
 # requirements
 segmentation-models==0.2.1
 # Train/Test
@@ -30,6 +28,9 @@ For all the codes, we have provided the sample data to test. Only need to change
 The trained models link is https://drive.google.com/drive/folders/1zPUivSgjR8VL8E24bB0zXURlIU4QBPhh?usp=sharing
 
 The testing data link is https://drive.google.com/file/d/1OLfd960X5WNoJrIDVxZO10C-GuJD_itY/view?usp=sharing
+
+# Reference
+https://github.com/qubvel/segmentation_models 
 
 # License
 Project is distributed under MIT Licence
